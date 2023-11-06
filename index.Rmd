@@ -1,6 +1,7 @@
 ---
 title: "IODS course project"
-output:
+author: Annika Borgström
+  output:
   html_document:
     theme: cosmo
     toc: true

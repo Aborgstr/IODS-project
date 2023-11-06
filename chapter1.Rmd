@@ -1,7 +1,9 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+The themes of the introduction to open data science course 2023 will be to learn about visualizing, analyzing, interpreting, understanding and communicating. This sounds very interresting, but the programs used are a new exciting world for me. I read about this course on the website of the open university of Helsinki. 
+
+My GitHub repository: https://github.com/aborgstr/IODS-project
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
@@ -9,5 +11,5 @@
 date()
 
 ```
-The text continues here.
+
 
