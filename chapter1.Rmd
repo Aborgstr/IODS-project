@@ -1,7 +1,11 @@
 
 # About the project
 
-The themes of the introduction to open data science course 2023 will be to learn about visualizing, analyzing, interpreting, understanding and communicating. This sounds very interresting, but the programs used are a new exciting world for me. I read about this course on the website of the open university of Helsinki. 
+The themes of the introduction to open data science course 2023 will be to learn about visualizing, analyzing, interpreting, understanding and communicating. This sounds very interesting, but the programs used are a new exciting world for me. I read about this course on the website of the open university of Helsinki. 
+
+# My thoughts about the course after first week
+
+It feels like a heavy crash course to R and a lot of work is needed, as I haven't used R before. At the moment I hope to have enough time to finish this course. The book and the exercises are good.
 
 My GitHub repository: https://github.com/aborgstr/IODS-project
 
